@@ -1,0 +1,257 @@
+#buttonu8543
+{
+	border-color: #787878;
+	background-color: #212126;
+}
+
+#u8562
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8582
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: #DEE9F3;
+	background-color: rgba(92, 148, 196, 0.2);
+	-pie-background: rgba(92, 148, 196, 0.2);
+}
+
+#pu8582:hover #u8582
+{
+	background-image: none;
+	border-style: none;
+	border-color: #999999;
+	background-color: #DEE9F3;
+	background-color: rgba(92, 148, 196, 0.2);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#pu8582.PamphletThumbSelected #u8582
+{
+	background-image: none;
+	border-style: solid;
+	border-color: #C9DFF2;
+	background-color: #BDD4E7;
+	background-color: rgba(92, 148, 196, 0.4);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	border-width: 0px 0px 1px;
+}
+
+#u8605
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#pamphletu8570,#u8581,#pu8582:hover #u8605
+{
+	position: relative;
+}
+
+#u8607
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#pu8582.PamphletThumbSelected #u8605,#pu8582 #u8605,#pu8582:hover #u8607
+{
+	position: relative;
+}
+
+#u8606
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#pu8582.PamphletThumbSelected #u8607,#pu8582 #u8607,#pu8582:hover #u8606
+{
+	position: relative;
+}
+
+#pu8582.PamphletThumbSelected #u8606,#pu8582 #u8606
+{
+	position: relative;
+}
+
+#u8577
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u8578
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu8590
+{
+	border-style: solid;
+	border-color: #212126;
+	background-color: #E0E1E5;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#buttonu8590:hover
+{
+	background-color: #545454;
+}
+
+#u8591-4
+{
+	background-color: transparent;
+	font-size: 16px;
+	color: #3C3C3C;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu8590:hover #u8591-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8595
+{
+	border-style: solid;
+	border-color: #212126;
+	background-color: #E0E1E5;
+	position: relative;
+	border-width: 1px 0px;
+}
+
+#buttonu8595:hover
+{
+	background-color: #545454;
+}
+
+#u8596-4
+{
+	background-color: transparent;
+	font-size: 16px;
+	color: #3C3C3C;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu8595:hover #u8596-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8597
+{
+	border-style: solid;
+	border-color: #212126;
+	background-color: #E0E1E5;
+	position: relative;
+	border-width: 1px 0px;
+}
+
+#buttonu8597:hover
+{
+	background-color: #545454;
+}
+
+#u8598-4
+{
+	background-color: transparent;
+	font-size: 16px;
+	color: #3C3C3C;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu8597:hover #u8598-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8599
+{
+	border-style: solid;
+	border-color: #212126;
+	background-color: #E0E1E5;
+	-moz-border-radius: 0px 0px 0px 10px ;
+	-webkit-border-radius: 0px 0px 0px 10px ;
+	-khtml-border-radius: 0px 0px 0px 10px ;
+	border-radius: 0px 0px 0px 10px ;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#buttonu8599:hover
+{
+	background-color: #545454;
+}
+
+#buttonu8590.ButtonSelected,#buttonu8595.ButtonSelected,#buttonu8597.ButtonSelected,#buttonu8599.ButtonSelected
+{
+	background-color: #212126;
+}
+
+#u8600-4
+{
+	background-color: transparent;
+	font-size: 16px;
+	color: #3C3C3C;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu8599:hover #u8600-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8590.ButtonSelected #u8591-4 p,#buttonu8595.ButtonSelected #u8596-4 p,#buttonu8597.ButtonSelected #u8598-4 p,#buttonu8599.ButtonSelected #u8600-4 p
+{
+	color: #FBB03B;
+	visibility: inherit;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+

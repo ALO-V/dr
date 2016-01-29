@@ -1,0 +1,2318 @@
+.version.places /* version checker */
+{
+	color: #0000FF;
+	background-color: #51DBF6;
+}
+
+@-ms-viewport
+{
+	width: 375px;
+}
+
+@-webkit-viewport
+{
+	width: 375px;
+}
+
+@-o-viewport
+{
+	width: 375px;
+}
+
+@-moz-viewport
+{
+	width: 375px;
+}
+
+@viewport
+{
+	width: 375px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 375px;
+	min-height: 2563.95px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	padding-bottom: 7px;
+}
+
+#pplaces-top
+{
+	width: 0.01px;
+}
+
+#places-top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 144px;
+}
+
+#buttonu8650
+{
+	z-index: 102;
+}
+
+#buttonu8650:hover
+{
+	margin: 0px;
+}
+
+#u8651
+{
+	z-index: 103;
+	width: 53px;
+	margin-right: -10000px;
+	left: 25px;
+}
+
+#buttonu8650:hover #u8651
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu8688
+{
+	z-index: 105;
+	width: 70px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+	left: 95px;
+}
+
+#buttonu8688:hover
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8689-4
+{
+	z-index: 106;
+	width: 56px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 7px;
+}
+
+#buttonu8688:hover #u8689-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8650-bw
+{
+	z-index: 102;
+	height: 51px;
+}
+
+#pamphletu8626
+{
+	z-index: 110;
+	width: 0.01px;
+	height: 32px;
+	padding-bottom: 219px;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u8633
+{
+	z-index: 111;
+	width: 26px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 152px;
+}
+
+#u8634
+{
+	width: 26px;
+	top: -18px;
+	left: -22px;
+	padding: 18px 22px 18.000000000000014px;
+}
+
+#buttonu8650.ButtonSelected,#u8634:hover
+{
+	margin: 0px;
+}
+
+#u8635
+{
+	z-index: 115;
+	width: 26px;
+	height: 3px;
+}
+
+#u8634.PamphletThumbSelected,#u8634:hover #u8635
+{
+	margin: 0px;
+}
+
+#u8634.PamphletThumbSelected #u8635
+{
+	margin: 0px;
+}
+
+#u8637
+{
+	z-index: 113;
+	width: 26px;
+	height: 3px;
+	margin-top: 2px;
+}
+
+#u8634:hover #u8637
+{
+	margin: 2px 0px 0px;
+}
+
+#u8636
+{
+	z-index: 114;
+	width: 26px;
+	height: 3px;
+	margin-top: 2px;
+}
+
+#u8634.PamphletThumbSelected #u8637,#u8634:hover #u8636
+{
+	margin: 2px 0px 0px;
+}
+
+#u8634.PamphletThumbSelected #u8636
+{
+	margin: 2px 0px 0px;
+}
+
+#u8638popup
+{
+	z-index: 116;
+}
+
+#u8638
+{
+	width: 200px;
+	top: 50px;
+}
+
+#u8639
+{
+	z-index: 117;
+	width: 200px;
+	height: 200px;
+	margin-right: -10000px;
+}
+
+#buttonu8640
+{
+	z-index: 118;
+	width: 200px;
+	padding-bottom: 13px;
+}
+
+#buttonu8640:hover
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu8640.ButtonSelected
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u8641-4
+{
+	z-index: 119;
+	width: 119px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 41px;
+}
+
+#buttonu8688.ButtonSelected #u8689-4,#buttonu8640:hover #u8641-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8648
+{
+	z-index: 123;
+	width: 200px;
+	padding-bottom: 13px;
+	top: -2px;
+	margin-bottom: -2px;
+}
+
+#buttonu8648:hover
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u8649-4
+{
+	z-index: 124;
+	width: 119px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 41px;
+}
+
+#buttonu8640.ButtonSelected #u8641-4,#buttonu8648:hover #u8649-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8642
+{
+	z-index: 128;
+	width: 200px;
+	padding-bottom: 13px;
+	top: -2px;
+	margin-bottom: -2px;
+}
+
+#buttonu8648.ButtonSelected,#buttonu8642:hover
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u8643-4
+{
+	z-index: 129;
+	width: 119px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 41px;
+}
+
+#buttonu8648.ButtonSelected #u8649-4,#buttonu8642:hover #u8643-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8644
+{
+	z-index: 133;
+	width: 200px;
+	padding-bottom: 13px;
+	top: -2px;
+	margin-bottom: -2px;
+}
+
+#buttonu8642.ButtonSelected,#buttonu8644:hover
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#buttonu8644.ButtonSelected
+{
+	width: 200px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u8645-4
+{
+	z-index: 134;
+	width: 119px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 41px;
+}
+
+#buttonu8642.ButtonSelected #u8643-4,#buttonu8644:hover #u8645-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8658
+{
+	z-index: 138;
+	width: 70px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+	left: 235px;
+}
+
+#buttonu8688.ButtonSelected,#buttonu8658:hover
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8659-4
+{
+	z-index: 139;
+	width: 56px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 7px;
+}
+
+#buttonu8644.ButtonSelected #u8645-4,#buttonu8658:hover #u8659-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8661
+{
+	z-index: 143;
+	width: 70px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+	left: 165px;
+}
+
+#buttonu8658.ButtonSelected,#buttonu8661:hover
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu8661.ButtonSelected
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8662-4
+{
+	z-index: 144;
+	width: 56px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 7px;
+}
+
+#buttonu8658.ButtonSelected #u8659-4,#buttonu8661:hover #u8662-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu8661.ButtonSelected #u8662-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#pamphletu8184
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 2372px;
+	margin-left: 27px;
+	top: -161px;
+	margin-bottom: -161px;
+	position: relative;
+}
+
+#u8195
+{
+	z-index: 3;
+	width: 321px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8196
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #DEDEDE;
+	background: #DEDEDE url("../../images/places_900px_01-u8196-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8196:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u8196.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8196
+{
+	background-image: url("../../images/places_900px_01-u8196-fr_2x.jpg");
+}
+
+#u8198
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #C4C4C4;
+	left: 171px;
+	background: #C4C4C4 url("../../images/places_900px_02-u8198-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8198:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u8198.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8198
+{
+	background-image: url("../../images/places_900px_02-u8198-fr_2x.jpg");
+}
+
+#u8197
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 171px;
+	background: #999999 url("../../images/places_900px_03-u8197-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8197:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8197
+{
+	background-image: url("../../images/places_900px_03-u8197-fr_2x.jpg");
+}
+
+#u8199
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 171px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_04-u8199-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8197.PamphletThumbSelected,#u8199:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8199
+{
+	background-image: url("../../images/places_900px_04-u8199-fr_2x.jpg");
+}
+
+#u8229
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 342px;
+	background: #999999 url("../../images/places_900px_05-u8229-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8199.PamphletThumbSelected,#u8229:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8229
+{
+	background-image: url("../../images/places_900px_05-u8229-fr_2x.jpg");
+}
+
+#u8233
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 342px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_06-u8233-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8229.PamphletThumbSelected,#u8233:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8233
+{
+	background-image: url("../../images/places_900px_06-u8233-fr_2x.jpg");
+}
+
+#u8236
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 513px;
+	background: #999999 url("../../images/places_900px_07-u8236-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8233.PamphletThumbSelected,#u8236:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8236
+{
+	background-image: url("../../images/places_900px_07-u8236-fr_2x.jpg");
+}
+
+#u8238
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 513px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_08-u8238-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8236.PamphletThumbSelected,#u8238:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8238
+{
+	background-image: url("../../images/places_900px_08-u8238-fr_2x.jpg");
+}
+
+#u8240
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 684px;
+	background: #999999 url("../../images/places_900px_09-u8240-fr.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u8240:hover
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8240
+{
+	background-image: url("../../images/places_900px_09-u8240-fr_2x.jpg");
+}
+
+#u8242
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 684px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_10-u8242-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8238.PamphletThumbSelected,#u8242:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8242
+{
+	background-image: url("../../images/places_900px_10-u8242-fr_2x.jpg");
+}
+
+#u8244
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 855px;
+	background: #999999 url("../../images/places_900px_11-u8244-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8242.PamphletThumbSelected,#u8244:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8244
+{
+	background-image: url("../../images/places_900px_11-u8244-fr_2x.jpg");
+}
+
+#u8246
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 855px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_12-u8246-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8244.PamphletThumbSelected,#u8246:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8246
+{
+	background-image: url("../../images/places_900px_12-u8246-fr_2x.jpg");
+}
+
+#u8248
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1026px;
+	background: #999999 url("../../images/places_900px_13-u8248-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8246.PamphletThumbSelected,#u8248:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8248
+{
+	background-image: url("../../images/places_900px_13-u8248-fr_2x.jpg");
+}
+
+#u8250
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1026px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_14-u8250-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8248.PamphletThumbSelected,#u8250:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8250
+{
+	background-image: url("../../images/places_900px_14-u8250-fr_2x.jpg");
+}
+
+#u8252
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1197px;
+	background: #999999 url("../../images/places_900px_15-u8252-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8250.PamphletThumbSelected,#u8252:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8252
+{
+	background-image: url("../../images/places_900px_15-u8252-fr_2x.jpg");
+}
+
+#u8254
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1197px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_16-u8254-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8252.PamphletThumbSelected,#u8254:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8254
+{
+	background-image: url("../../images/places_900px_16-u8254-fr_2x.jpg");
+}
+
+#u8256
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1368px;
+	background: #999999 url("../../images/places_900px_17-u8256-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8254.PamphletThumbSelected,#u8256:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8256
+{
+	background-image: url("../../images/places_900px_17-u8256-fr_2x.jpg");
+}
+
+#u8258
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1368px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_18-u8258-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8256.PamphletThumbSelected,#u8258:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8258
+{
+	background-image: url("../../images/places_900px_18-u8258-fr_2x.jpg");
+}
+
+#u8260
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1539px;
+	background: #999999 url("../../images/places_900px_19-u8260-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8258.PamphletThumbSelected,#u8260:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8260
+{
+	background-image: url("../../images/places_900px_19-u8260-fr_2x.jpg");
+}
+
+#u8262
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1539px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_20-u8262-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8260.PamphletThumbSelected,#u8262:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8262
+{
+	background-image: url("../../images/places_900px_20-u8262-fr_2x.jpg");
+}
+
+#u8264
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1710px;
+	background: #999999 url("../../images/places_900px_21-u8264-fr.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u8240.PamphletThumbSelected,#u8264:hover
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8264
+{
+	background-image: url("../../images/places_900px_21-u8264-fr_2x.jpg");
+}
+
+#u8266
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1710px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_22-u8266-fr.jpg") no-repeat right center;
+	background-size: cover;
+}
+
+#u8266:hover
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u8266.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8266
+{
+	background-image: url("../../images/places_900px_22-u8266-fr_2x.jpg");
+}
+
+#u8268
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1881px;
+	background: #999999 url("../../images/places_900px_23-u8268-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8262.PamphletThumbSelected,#u8268:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8268
+{
+	background-image: url("../../images/places_900px_23-u8268-fr_2x.jpg");
+}
+
+#u8270
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 1881px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_24-u8270-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8268.PamphletThumbSelected,#u8270:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8270
+{
+	background-image: url("../../images/places_900px_24-u8270-fr_2x.jpg");
+}
+
+#u8272
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 2052px;
+	background: #999999 url("../../images/places_900px_25-u8272-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8270.PamphletThumbSelected,#u8272:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8272
+{
+	background-image: url("../../images/places_900px_25-u8272-fr_2x.jpg");
+}
+
+#u8274
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 2052px;
+	left: 171px;
+	background: #999999 url("../../images/places_900px_26-u8274-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8272.PamphletThumbSelected,#u8274:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u8274.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8274
+{
+	background-image: url("../../images/places_900px_26-u8274-fr_2x.jpg");
+}
+
+#u8276
+{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-color: #999999;
+	top: 2222px;
+	left: 85px;
+	background: #999999 url("../../images/places_900px_27-u8276-fr.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u8264.PamphletThumbSelected,#u8276:hover
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u8276.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-color: #6B6B6B;
+	margin: 0px;
+	background-size: cover;
+}
+
+.hidpi #u8276
+{
+	background-image: url("../../images/places_900px_27-u8276-fr_2x.jpg");
+}
+
+#u8191
+{
+	position: absolute;
+	width: 375px;
+	background-color: transparent;
+	top: -19px;
+	left: -27px;
+}
+
+#u8191popup
+{
+	z-index: 31;
+}
+
+#u8192
+{
+	z-index: 32;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8201
+{
+	z-index: 33;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 21px;
+	background: #FFFFFF url("../../images/places_900px_01-u8201-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8201
+{
+	background-image: url("../../images/places_900px_01-u8201-fr_2x.jpg");
+}
+
+#u8193
+{
+	z-index: 34;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8205
+{
+	z-index: 35;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_02-u8205-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8205
+{
+	background-image: url("../../images/places_900px_02-u8205-fr_2x.jpg");
+}
+
+#u8194
+{
+	z-index: 36;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8206
+{
+	z-index: 37;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 185px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_03-u8206-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8206
+{
+	background-image: url("../../images/places_900px_03-u8206-fr_2x.jpg");
+}
+
+#u8200
+{
+	z-index: 38;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8207
+{
+	z-index: 39;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 185px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_04-u8207-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8207
+{
+	background-image: url("../../images/places_900px_04-u8207-fr_2x.jpg");
+}
+
+#u8230
+{
+	z-index: 40;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8232
+{
+	z-index: 41;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 356px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_05-u8232-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8232
+{
+	background-image: url("../../images/places_900px_05-u8232-fr_2x.jpg");
+}
+
+#u8234
+{
+	z-index: 42;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8278
+{
+	z-index: 43;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 356px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_06-u8278-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8278
+{
+	background-image: url("../../images/places_900px_06-u8278-fr_2x.jpg");
+}
+
+#u8237
+{
+	z-index: 44;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8279
+{
+	z-index: 45;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 527px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_07-u8279-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8279
+{
+	background-image: url("../../images/places_900px_07-u8279-fr_2x.jpg");
+}
+
+#u8239
+{
+	z-index: 46;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8284
+{
+	z-index: 47;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 527px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_08-u8284-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8284
+{
+	background-image: url("../../images/places_900px_08-u8284-fr_2x.jpg");
+}
+
+#u8241
+{
+	z-index: 48;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8286
+{
+	z-index: 49;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 698px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_09-u8286-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8286
+{
+	background-image: url("../../images/places_900px_09-u8286-fr_2x.jpg");
+}
+
+#u8243
+{
+	z-index: 50;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8287
+{
+	z-index: 51;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 698px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_10-u8287-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8287
+{
+	background-image: url("../../images/places_900px_10-u8287-fr_2x.jpg");
+}
+
+#u8245
+{
+	z-index: 52;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8288
+{
+	z-index: 53;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 869px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_11-u8288-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8288
+{
+	background-image: url("../../images/places_900px_11-u8288-fr_2x.jpg");
+}
+
+#u8247
+{
+	z-index: 54;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8289
+{
+	z-index: 55;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 869px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_12-u8289-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8289
+{
+	background-image: url("../../images/places_900px_12-u8289-fr_2x.jpg");
+}
+
+#u8249
+{
+	z-index: 56;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8290
+{
+	z-index: 57;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1040px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_13-u8290-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8290
+{
+	background-image: url("../../images/places_900px_13-u8290-fr_2x.jpg");
+}
+
+#u8251
+{
+	z-index: 58;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8291
+{
+	z-index: 59;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1040px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_14-u8291-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8291
+{
+	background-image: url("../../images/places_900px_14-u8291-fr_2x.jpg");
+}
+
+#u8253
+{
+	z-index: 60;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8292
+{
+	z-index: 61;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1211px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_15-u8292-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8292
+{
+	background-image: url("../../images/places_900px_15-u8292-fr_2x.jpg");
+}
+
+#u8255
+{
+	z-index: 62;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8293
+{
+	z-index: 63;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1211px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_16-u8293-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8293
+{
+	background-image: url("../../images/places_900px_16-u8293-fr_2x.jpg");
+}
+
+#u8257
+{
+	z-index: 64;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8294
+{
+	z-index: 65;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1382px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_17-u8294-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8294
+{
+	background-image: url("../../images/places_900px_17-u8294-fr_2x.jpg");
+}
+
+#u8259
+{
+	z-index: 66;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8295
+{
+	z-index: 67;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1382px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_18-u8295-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8295
+{
+	background-image: url("../../images/places_900px_18-u8295-fr_2x.jpg");
+}
+
+#u8261
+{
+	z-index: 68;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8296
+{
+	z-index: 69;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1553px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_19-u8296-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8296
+{
+	background-image: url("../../images/places_900px_19-u8296-fr_2x.jpg");
+}
+
+#u8263
+{
+	z-index: 70;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8297
+{
+	z-index: 71;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1553px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_20-u8297-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8297
+{
+	background-image: url("../../images/places_900px_20-u8297-fr_2x.jpg");
+}
+
+#u8265
+{
+	z-index: 72;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8298
+{
+	z-index: 73;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1724px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_21-u8298-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8298
+{
+	background-image: url("../../images/places_900px_21-u8298-fr_2x.jpg");
+}
+
+#u8267
+{
+	z-index: 74;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8299
+{
+	z-index: 75;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1724px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_22-u8299-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8299
+{
+	background-image: url("../../images/places_900px_22-u8299-fr_2x.jpg");
+}
+
+#u8269
+{
+	z-index: 76;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8300
+{
+	z-index: 77;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1895px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_23-u8300-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8300
+{
+	background-image: url("../../images/places_900px_23-u8300-fr_2x.jpg");
+}
+
+#u8271
+{
+	z-index: 78;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8301
+{
+	z-index: 79;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1895px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_24-u8301-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8301
+{
+	background-image: url("../../images/places_900px_24-u8301-fr_2x.jpg");
+}
+
+#u8273
+{
+	z-index: 80;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8302
+{
+	z-index: 81;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2066px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_25-u8302-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8302
+{
+	background-image: url("../../images/places_900px_25-u8302-fr_2x.jpg");
+}
+
+#u8275
+{
+	z-index: 82;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8303
+{
+	z-index: 83;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2066px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_26-u8303-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8303
+{
+	background-image: url("../../images/places_900px_26-u8303-fr_2x.jpg");
+}
+
+#u8277
+{
+	z-index: 84;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8304
+{
+	z-index: 85;
+	width: 325px;
+	height: 325px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2066px;
+	left: 20px;
+	background: #FFFFFF url("../../images/places_900px_27-u8304-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u8304
+{
+	background-image: url("../../images/places_900px_27-u8304-fr_2x.jpg");
+}
+
+#u8187
+{
+	position: absolute;
+	width: 375px;
+	height: 2401px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: -19px;
+	left: -27px;
+}
+
+.ie #u8187
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u8187:hover
+{
+	border-color: #6B6B6B;
+	margin: 0px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#buttonu9296
+{
+	z-index: 87;
+	width: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #212126;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-left: 137px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#buttonu9296:hover
+{
+	background-color: #636367;
+	background-color: rgba(33, 33, 38, 0.7);
+	margin: 15px 0px 0px 137px;
+	-pie-background: rgba(33, 33, 38, 0.7);
+}
+
+#buttonu9296.ButtonSelected
+{
+	background-color: #212126;
+	background-color: rgba(33, 33, 38, 1);
+	margin: 15px 0px 0px 137px;
+	-pie-background: rgba(33, 33, 38, 1);
+}
+
+#u9298-4
+{
+	z-index: 88;
+	width: 37px;
+	height: 14px;
+	background-color: transparent;
+	direction: ltr;
+	writing-mode: tb-rl;
+	-webkit-direction: ltr;
+	-webkit-writing-mode: vertical-rl;
+	font-size: 30px;
+	color: #C9DFF2;
+	line-height: 36px;
+	text-align: left;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 29px;
+}
+
+#buttonu9296:hover #u9298-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	margin: 8px -10000px 0px 0px;
+}
+
+#buttonu9296.ButtonSelected #u9298-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	margin: 8px -10000px 0px 0px;
+}
+
+#u9297
+{
+	z-index: 92;
+	width: 100px;
+	height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.ie #u8187:hover,.ie #u9297
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#buttonu8650.ButtonSelected #u8651,#buttonu9296:hover #u9297
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+.ie #buttonu9296:hover #u9297
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#buttonu9296.ButtonSelected #u9297
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+.ie #buttonu9296.ButtonSelected #u9297
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#pu12325-4
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 15px;
+}
+
+#u12325-4
+{
+	z-index: 94;
+	width: 286px;
+	min-height: 17px;
+	background-color: transparent;
+	line-height: 12px;
+	font-size: 10px;
+	color: #212126;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+}
+
+#u12326-4
+{
+	z-index: 98;
+	width: 286px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 12px;
+	font-size: 10px;
+	color: #212126;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 375px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

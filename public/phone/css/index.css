@@ -1,0 +1,348 @@
+.version.index /* version checker */
+{
+	color: #000007;
+	background-color: #430A7B;
+}
+
+@-ms-viewport
+{
+	width: 375px;
+}
+
+@-webkit-viewport
+{
+	width: 375px;
+}
+
+@-o-viewport
+{
+	width: 375px;
+}
+
+@-moz-viewport
+{
+	width: 375px;
+}
+
+@viewport
+{
+	width: 375px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/header_900px_02.jpg") no-repeat right center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 375px;
+	min-height: 600px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	padding-top: 25px;
+	padding-bottom: 180px;
+}
+
+#pu8511
+{
+	width: 0.01px;
+}
+
+#u8511
+{
+	z-index: 25;
+	width: 145px;
+	height: 2px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C9DFF2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+}
+
+#u9107
+{
+	z-index: 27;
+	width: 53px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 161px;
+}
+
+#u8512
+{
+	z-index: 26;
+	width: 145px;
+	height: 2px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C9DFF2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 230px;
+}
+
+#u8509-4
+{
+	z-index: 17;
+	min-height: 49px;
+	background-color: transparent;
+	font-size: 60px;
+	color: #C9DFF2;
+	line-height: 60px;
+	letter-spacing: 11px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+}
+
+#u8509-4-bw
+{
+	z-index: 17;
+	min-height: 49px;
+	margin-top: -1px;
+	margin-bottom: -1px;
+	height: 120px;
+}
+
+#u8510-4
+{
+	z-index: 21;
+	width: 287px;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 20px;
+	color: #C9DFF2;
+	line-height: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#buttonu8507
+{
+	z-index: 2;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C9DFF2;
+	background-color: #212126;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	padding-bottom: 10px;
+}
+
+#buttonu8507:hover
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	-webkit-box-shadow: 0px 0px 20px -1px rgba(251, 176, 59, 0.1);
+	box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	background-color: #CBCBCB;
+	background-color: rgba(84, 84, 84, 0.3);
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(84, 84, 84, 0.3);
+}
+
+#u8508-4
+{
+	z-index: 3;
+	width: 256px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 25px;
+	color: #C9DFF2;
+	line-height: 25px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 65px;
+}
+
+#buttonu8507:hover #u8508-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#buttonu8507-bw
+{
+	z-index: 2;
+	margin-top: 24px;
+	height: 40px;
+}
+
+#buttonu8513
+{
+	z-index: 7;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C9DFF2;
+	background-color: #212126;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	padding-bottom: 10px;
+}
+
+#buttonu8513:hover
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	-webkit-box-shadow: 0px 0px 20px -1px rgba(251, 176, 59, 0.1);
+	box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	background-color: #CBCBCB;
+	background-color: rgba(84, 84, 84, 0.3);
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(84, 84, 84, 0.3);
+}
+
+#u8514-4
+{
+	z-index: 8;
+	width: 220px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 25px;
+	color: #C9DFF2;
+	line-height: 25px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 83px;
+}
+
+#buttonu8513-bw
+{
+	z-index: 7;
+	margin-top: 10px;
+	height: 40px;
+}
+
+#buttonu8517
+{
+	z-index: 12;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C9DFF2;
+	background-color: #212126;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	padding-bottom: 10px;
+}
+
+#buttonu8517:hover
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	-webkit-box-shadow: 0px 0px 20px -1px rgba(251, 176, 59, 0.1);
+	box-shadow: 0px 0px 20px rgba(251, 176, 59, 0.1);
+	background-color: #CBCBCB;
+	background-color: rgba(84, 84, 84, 0.3);
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(84, 84, 84, 0.3);
+}
+
+#u8518-4
+{
+	z-index: 13;
+	width: 114px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 25px;
+	color: #C9DFF2;
+	line-height: 25px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 136px;
+}
+
+#buttonu8507.ButtonSelected #u8508-4,#buttonu8513:hover #u8514-4,#buttonu8517:hover #u8518-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#buttonu8517.ButtonSelected #u8518-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#buttonu8507.ButtonSelected #u8508-4 p,#buttonu8517.ButtonSelected #u8518-4 p
+{
+	font-size: 25px;
+}
+
+#buttonu8517-bw
+{
+	z-index: 12;
+	margin-top: 10px;
+	height: 40px;
+}
+
+body
+{
+	position: relative;
+	min-width: 375px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
